@@ -6,4 +6,7 @@
 
 <h3>Database Design</h3>
 
-test
+![pointofsales](https://user-images.githubusercontent.com/118057516/232201168-acffb4b9-b4b6-4394-90b2-2c9db538e20b.png)
+
+<h3>API Documentation</h3>
+https://documenter.getpostman.com/view/25319218/2s93RXr9qj
